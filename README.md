@@ -19,14 +19,14 @@ Happy Coding! 😊
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/manoj-jasoliya/" target="_blank">
-  <img align="left" alt="Manoj's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/linkedin.svg" />
+  <img align="center" alt="Manoj's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/manoj_jasoliya" target="_blank">
-  <img align="left" alt="Manoj | Twitter" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/twitter.svg" />
+  <img align="center" alt="Manoj | Twitter" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/36JKfp7" target="_blank">
-  <img align="left" alt="Manoj's Discord" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/discord-round.svg" />
+  <img align="center" alt="Manoj's Discord" width="21px" src="https://raw.githubusercontent.com/Manojj999/Manojj999/master/assets/discord-round.svg" />
 </a>
 
 </div>
