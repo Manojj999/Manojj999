@@ -12,7 +12,7 @@ Happy Coding! 😊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manojj999&show_icons=true&theme=tokyonight&hide_border=true" alt="Manoj Jasoliya's Github Stats">
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojj999&layout=default&show_icons=true&theme=tokyonight" alt="Manoj Jasoliya's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojj999&layout=default&show_icons=true&theme=tokyonight" alt="Manoj Jasoliya's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/Manojj999/Manojj999.svg)](http://hits.dwyl.com/Manojj999/Manojj999)
 
