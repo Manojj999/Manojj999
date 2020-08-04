@@ -37,5 +37,5 @@ Hello, I'm Manoj Jasoliya, self-taught frontEnd web developer from Surat ,India.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojj999&layout=default&show_icons=true&theme=tokyonight" alt="Manoj Jasoliya's Github Stats">
 
-[![HitCount](http://hits.dwyl.com/Manojj999/Manojj999.svg)](http://hits.dwyl.com/Manojj999/Manojj999)
+
 
