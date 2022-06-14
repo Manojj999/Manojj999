@@ -12,12 +12,10 @@
 <br />
 <br />
 
-Hello, I'm Manoj Jasoliya, self-taught frontEnd web developer from Surat ,India.
+Hello, I'm Manoj Jasoliya, self-taught frontEnd Mobile developer from India.
 
-- 🔭 I’m currently working on: Front development (React and JavaScript)
-- 🌱 I’m currently learning: React-Redux | React Native
+- 🔭 I’m currently working on: Front development (React and React-Native)
 - 📫 How to reach me: jasoliyamanoj999@gmail.com
-
 
 **Languages and Tools:**  
 
